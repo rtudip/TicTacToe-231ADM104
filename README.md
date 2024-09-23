@@ -39,3 +39,10 @@ This project implements a Tic Tac Toe game using the minimax algorithm to determ
 
 The minimax algorithm is a recursive function that explores all possible game states to find the best move for the current player. It simulates each possible move, evaluates the resulting board state, and chooses the move that maximizes the player's chances of winning while minimizing the opponent's chances.
 
+## How to Run
+
+1. Clone this repository.
+2. **Check if you have all necessary libraries installed.** You can run the following command to install the required Python package (pygame) for this project:
+   ```bash
+   pip3 install -r requirements.txt
+3. python runner.py
