@@ -1,4 +1,4 @@
-# Tic Tac Toe Player
+# Tic Tac Toe
 
 This project implements a Tic Tac Toe game using the minimax algorithm to determine the optimal moves for each player. The game is designed in Python and features functions for handling the game's logic, including checking the current state of the board, determining the winner, and deciding the next move.
 
